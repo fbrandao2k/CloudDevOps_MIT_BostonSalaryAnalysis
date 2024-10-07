@@ -9,4 +9,4 @@ This project displays a bar chart of Boston city workers' salaries using Google 
 ![BostonCityHighestSalaries](https://github.com/user-attachments/assets/137c4ecb-232f-4a39-ab85-c06375a9c599)
 
 ## Acknowledgement 
-This content is from the course of Cloud & Devops of MIT (2024)
+This content is from the course Cloud & Devops of MIT (2024)
